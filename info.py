@@ -1,0 +1,2 @@
+name = 'Thana'
+lastname = 'Pentum'
